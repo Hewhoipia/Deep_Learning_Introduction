@@ -18,4 +18,4 @@ Extra exercises
 - [Salary_Predction](https://github.com/Hewhoipia/Deep_Learning_Introduction/blob/main/Exercises/TF_Salary_Prediction.ipynb)
 
 Personal projects:
-- [Pistachio_Detection](https://github.com/Hewhoipia/Deep_Learning_Introduction/blob/main/Personal_Projects/Pistachio_Detection.ipynb): using a pre-trained VGG16 Model
+- [Pistachio_Classification](https://github.com/Hewhoipia/Deep_Learning_Introduction/blob/main/Personal_Projects/Pistachio_Classification.ipynb): using a pre-trained VGG16 Model
