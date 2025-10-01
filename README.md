@@ -12,10 +12,9 @@ Lab 2:
 Lab 3:
 - [LLM_Finetuning](https://github.com/Hewhoipia/Deep_Learning_Introduction/blob/main/Lab3/LLM_Finetuning.ipynb): fine-tune a multi-billion parameter large language model (LLM)
 
-Extra exercises
+Extra exercises:
 - [Python](https://github.com/Hewhoipia/Deep_Learning_Introduction/tree/main/Exercises/python)
 - [Numpy](https://github.com/Hewhoipia/Deep_Learning_Introduction/tree/main/Exercises/numpy)
 - [Salary_Predction](https://github.com/Hewhoipia/Deep_Learning_Introduction/blob/main/Exercises/TF_Salary_Prediction.ipynb)
 
 Personal projects:
-- [Pistachio_Classification](https://github.com/Hewhoipia/Deep_Learning_Introduction/blob/main/Personal_Projects/Pistachio_Classification.ipynb): using a pre-trained VGG16 Model
