@@ -11,6 +11,7 @@ Lab 2:
 
 Lab 3:
 - [LLM_Finetuning](https://github.com/Hewhoipia/Deep_Learning_Introduction/blob/main/Lab3/LLM_Finetuning.ipynb): fine-tune a multi-billion parameter large language model (LLM)
+- [Reinforcement Learning with Cartpole & Self-driving](https://github.com/Hewhoipia/Deep_Learning_Introduction/blob/main/Lab3/RL_Self_Driving.ipynb)
 
 Extra exercises:
 - [Python](https://github.com/Hewhoipia/Deep_Learning_Introduction/tree/main/Exercises/python)
